@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1
 
 #VTV
-#EXTINF:-1 tvg-id="vtv1hdd" group-title="VTV" tvg-logo="https://i.imgur.com/GdF6ca7.png",VTV111
+#EXTINF:-1 tvg-id="vtv1GO" group-title="VTV" tvg-logo="https://i.imgur.com/GdF6ca7.png",VTV1
 https://vtvgolive-vtv.vtvdigital.vn/0KWMUuMl9h_-QVmvCOIkCA/1682483124/vtvdigital/vtv1-720p.m3u8
 
 #EXTINF:0 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.ibb.co/mBHRZbg/VTV1-BEARTV.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8" ,VTV1       
