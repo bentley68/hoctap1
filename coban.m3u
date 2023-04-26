@@ -37,28 +37,6 @@ http://vn2.vietanhtv.pw/vtvgoweb.php?id=163
 
 #EXTINF:0 tvg-id="antvhd" group-title="KÊNH CHUYÊN BIỆT" tvg-logo="https://i.ibb.co/9wxKmLH/ANTV-BEARTV.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/anninhtv_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", ANTV HD
 
-
-#VTV
-#EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.imgur.com/GdF6ca7.png",VTV1
-https://vips-livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/playlist.m3u8?cc
-#EXTINF:-1 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://i.imgur.com/VAYUstO.png",VTV2
-https://vips-livecdn.fptplay.net/hda1/vtv2_vhls.smil/playlist.m3u8?cc
-#EXTINF:-1 tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://i.imgur.com/Z6R3lQu.png",VTV3
-https://vips-livecdn.fptplay.net/hda1/vtv3hd_vhls.smil/playlist.m3u8?cc
-#EXTINF:-1 tvg-id="vtv4hd" group-title="VTV" tvg-logo="https://i.imgur.com/hAHGDNt.png",VTV4
-https://vips-livecdn.fptplay.net/hda1/vtv4_vhls.smil/playlist.m3u8?cc
-#EXTINF:-1 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://i.imgur.com/D4u2Rzc.png",VTV5
-https://vips-livecdn.fptplay.net/hda2/vtv5hd_vhls.smil/playlist.m3u8?cc
-#EXTINF:-1 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://i.imgur.com/sd4dY7l.png",VTV Cần Thơ
-https://vips-livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/playlist.m3u8?cc
-#EXTINF:-1 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://i.imgur.com/pXYUabw.png",VTV7
-https://vips-livecdn.fptplay.net/hda3/vtv7hd_vhls.smil/playlist.m3u8?cc
-#EXTINF:-1 tvg-id="vtv8hd" group-title="VTV" tvg-logo="https://i.imgur.com/xwuauP7.png",VTV8
-https://vips-livecdn.fptplay.net/hda2/vtv8hd_vhls.smil/playlist.m3u8?cc
-#EXTINF:-1 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://i.imgur.com/cxEDSCj.png",VTV9
-https://vips-livecdn.fptplay.net/hda2/vtv9_vhls.smil/playlist.m3u8?cc
-
-
 #VTC
 #EXTINF:-1 tvg-id="vtc1hd" group-title=" VTC " tvg-logo="https://i.imgur.com/pt4xLqK.png",VTC1
 https://vips-livecdn.fptplay.net/hda1/vtc1_vhls.smil/chunklist_b5000000.m3u8?cc
