@@ -130,7 +130,7 @@ https://vips-livecdn.fptplay.net/hda2/natgeohd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="ngwhd" group-title="Khám phá" tvg-logo="https://i.imgur.com/cmJkyAq.png",Wild
 https://vips-livecdn.fptplay.net/hda3/natgeowild_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="animalhd" group-title="Khám phá" tvg-logo="https://i.imgur.com/pR2MB5v.png",Animal Planet
-http://vips-livecdn.fptplay.net/hda2/animalplanet_vhls.smil/chunklist_b5000000.m3u8?cc
+https://ancom.ga/fpt/animal-planet/bitrate_5000.m3u8
 
 #Trong nước
 #EXTINF:-1 tvg-id="thaibinh" group-title="Trong nước" tvg-logo="https://i.imgur.com/0Z3oJXD.png",Thai Binh TV
