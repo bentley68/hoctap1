@@ -10,7 +10,7 @@ http://live-zlr1.tv360.vn/manifest/VTV3/playlist_1080p-5M.m3u8
 http://27.67.50.82:18080//193_2.m3u8?AdaptiveType=HLS&SessionID=172711c8-98c5-428e-9e5d-7cd026c40288&MinBw=0&MaxBw=20000000
 #EXTINF:0 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://i.ibb.co/bKfw6Tc/VTV5-BEARTV.png" catchup="append" catchup-days="2",VTV5HD
 http://live-zlr1.tv360.vn/manifest/VTV5_HD_50fps/playlist_VTV5-HD-50fps-1080P-65M.m3u8
-#EXTINF:0 tvg-id="vtv5tn" group-title="VTV" catchup="append" catchup-days="2",VTV TÂY NGUYÊN
+#EXTINF:0 tvg-id="vtv5hdtn" group-title="VTV" catchup="append" catchup-days="2",VTV TÂY NGUYÊN
 http://27.67.50.92:18080//308_2.m3u8?AdaptiveType=HLS&SessionID=99de6016-ef0c-4527-a448-2235848d4496&MinBw=0&MaxBw=20000000
 #EXTINF:0 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://i.ibb.co/8cghHq1/vtv-cantho-BEARTV.png" catchup="append" catchup-days="2", VTV CẦN THƠ
 http://live-ali2.tv360.vn/manifest/VTV6_HD/playlist_1080p.m3u8
@@ -21,9 +21,9 @@ http://27.67.50.73:18080//196_2.m3u8?AdaptiveType=HLS&SessionID=7abd2b0d-332d-47
 #EXTINF:0 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://i.ibb.co/Q671mTF/VTV9-BEARTV.png" catchup="append" catchup-days="2",VTV9
 http://27.67.50.143:18080//197_2.m3u8?AdaptiveType=HLS&SessionID=a2c7eef1-60cf-4b42-bf5b-41bd89a374eb&MinBw=0&MaxBw=20000000
 
-#EXTINF:0 tvg-id="thp" group-title="TỔNG HỢP" catchup="append" catchup-days="2",THP+
+#EXTINF:0 tvg-id="haiphong" group-title="TỔNG HỢP" catchup="append" catchup-days="2",THP+
 http://27.67.50.68:18080//306_2.m3u8?AdaptiveType=HLS&SessionID=202be656-7ed3-4f7d-a944-4ce39c371db2&MinBw=0&MaxBw=20000000
-#EXTINF:0 tvg-id="antv" group-title="TỔNG HỢP" catchup="append" catchup-days="2",ANTV
+#EXTINF:0 tvg-id="antvhd" group-title="TỔNG HỢP" catchup="append" catchup-days="2",ANTV
 http://live-ali2.tv360.vn/manifest/ANTV_SPR/playlist_480p1p6.m3u8
-#EXTINF:0 tvg-id=" Cartoon" group-title="TỔNG HỢP" catchup="append" catchup-days="2", VTVcab 21- Cartoon Kids HD
+#EXTINF:0 tvg-id="cartoonhd" group-title="TỔNG HỢP" catchup="append" catchup-days="2", VTVcab 21- Cartoon Kids HD
 http://27.67.50.70:18080//234_2.m3u8?AdaptiveType=HLS&SessionID=269890ee-843d-4368-9a46-7df9ab875175&MinBw=0&MaxBw=20000000
