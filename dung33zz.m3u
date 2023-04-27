@@ -42,6 +42,3 @@ https://ancom.ga/fpt/discovery-asia/bitrate_5000.m3u8
 #EXTINF:0 tvg-id="fashionhd" group-title="TỔNG HỢP" tvg-logo="https://i.ibb.co/HCsCfZC/Fashion-TV.png" , Fashion TV 4K
 http://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 
-#EXTINF:0 tvg-id="fashionhd" group-title="TỔNG HỢP" tvg-logo="https://i.ibb.co/HCsCfZC/Fashion-TV.png" , Fashion TV 4K
-http://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-
