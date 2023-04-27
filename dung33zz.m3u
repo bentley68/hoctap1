@@ -1,0 +1,29 @@
+#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/beartv_epg.xml" tvg-shift=0 m3uautoload=1
+
+#EXTINF:0 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.ibb.co/mBHRZbg/VTV1-BEARTV.png" catchup="append" catchup-days="2",VTV1       
+http://live-ali4.tv360.vn/manifest/VTV1_HD/playlist_1080p.m3u8
+#EXTINF:0 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://i.ibb.co/1rGZzbN/VTV2-BEARTV.png" catchup="append" catchup-days="2",VTV2
+http://live-ali4.tv360.vn/manifest/vtv2/playlist_1080p.m3u8
+#EXTINF:0 tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://i.ibb.co/hKgN4RG/VTV3-BEARTV.png" catchup="append" catchup-days="2",VTV3
+http://live-zlr1.tv360.vn/manifest/VTV3/playlist_1080p-5M.m3u8
+#EXTINF:0 tvg-id="vtv4hd" group-title="VTV" tvg-logo="https://i.ibb.co/928wSRc/VTV4-BEARTV.png" catchup="append" catchup-days="2",VTV4
+http://27.67.50.94:18080//193_2.m3u8?AdaptiveType=HLS&SessionID=bda224ed-84ed-4566-8c17-30afb93e1f52&MinBw=0&MaxBw=20000000
+#EXTINF:0 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://i.ibb.co/bKfw6Tc/VTV5-BEARTV.png" catchup="append" catchup-days="2",VTV5HD
+http://live-zlr1.tv360.vn/manifest/VTV5_HD_50fps/playlist_VTV5-HD-50fps-1080P-65M.m3u8
+#EXTINF:0 tvg-id="vtv5tn" group-title="VTV" catchup="append" catchup-days="2",VTV TÂY NGUYÊN
+http://27.67.50.92:18080//308_2.m3u8?AdaptiveType=HLS&SessionID=e5e35ded-13c4-4c4e-b58f-f8ef272f1e06&MinBw=0&MaxBw=20000000
+#EXTINF:0 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://i.ibb.co/8cghHq1/vtv-cantho-BEARTV.png" catchup="append" catchup-days="2", VTV CẦN THƠ
+http://live-ali2.tv360.vn/manifest/VTV6_HD/playlist_1080p.m3u8
+#EXTINF:0 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://i.ibb.co/N6GVgfg/VTV7-BEARTV.png" catchup="append" catchup-days="2",VTV7
+http://27.67.50.69:18080//195_2.m3u8?AdaptiveType=HLS&SessionID=8868e4e3-32ee-4bfb-ad11-246338677c7f&MinBw=0&MaxBw=20000000
+#EXTINF:0 tvg-id="vtv8hd" group-title="VTV" tvg-logo="https://i.ibb.co/FYvN38c/VTV8-BEARTV.png" catchup="append" catchup-days="2",VTV8
+http://27.67.50.73:18080//196_2.m3u8?AdaptiveType=HLS&SessionID=96bda9d3-f4cc-4aa1-ab1f-627169a9c305&MinBw=0&MaxBw=20000000
+#EXTINF:0 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://i.ibb.co/Q671mTF/VTV9-BEARTV.png" catchup="append" catchup-days="2",VTV9
+http://27.67.50.143:18080//197_2.m3u8?AdaptiveType=HLS&SessionID=bfe041d2-2307-4f5e-a9ce-fe443a2fce17&MinBw=0&MaxBw=20000000
+
+#EXTINF:0 tvg-id="thp" group-title="TỔNG HỢP" catchup="append" catchup-days="2",THP+
+http://27.67.50.133:18080//306_2.m3u8?AdaptiveType=HLS&SessionID=2340cf17-9d28-44aa-8b87-cc0f9686fc77&MinBw=0&MaxBw=20000000
+#EXTINF:0 tvg-id="antv" group-title="TỔNG HỢP" catchup="append" catchup-days="2",ANTV
+http://live-ali2.tv360.vn/manifest/ANTV_SPR/playlist_480p1p6.m3u8
+#EXTINF:0 tvg-id=" Cartoon" group-title="TỔNG HỢP" catchup="append" catchup-days="2", VTVcab 21- Cartoon Kids HD
+http://27.67.50.70:18080//234_2.m3u8?AdaptiveType=HLS&SessionID=269890ee-843d-4368-9a46-7df9ab875175&MinBw=0&MaxBw=20000000
