@@ -16,3 +16,11 @@ http://live-ali2.tv360.vn/manifest/VTV6_HD/playlist_1080p.m3u8
 #EXTINF:0 tvg-id="antvhd" group-title="TỔNG HỢP" catchup="append" catchup-days="2",ANTV
 http://live-ali2.tv360.vn/manifest/ANTV_SPR/playlist_480p1p6.m3u8
 
+#EXTINF:0 tvg-id="ANIMAL PLANET" group-title="TỔNG HỢP" catchup="append" catchup-days="2",ANIMAL PLANET
+
+https://food-dlvr-ott.akamaized.net/primary/3/def27b3dd6854290bc7f42daa93c65ea/index_15.m3u8
+
+
+#EXTINF:0 tvg-id="DISNEY CHANNEL" group-title="TỔNG HỢP" catchup="append" catchup-days="2",DISNEY CHANNEL
+
+http://tvstarlife.com:25461/live/cesar/cesar123/192.m3u8
