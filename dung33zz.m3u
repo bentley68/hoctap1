@@ -9,12 +9,10 @@ http://live-zlr1.tv360.vn/manifest/VTV3/playlist_1080p-5M.m3u8
 
 #EXTINF:0 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://i.ibb.co/bKfw6Tc/VTV5-BEARTV.png" catchup="append" catchup-days="2",VTV5HD
 http://live-zlr1.tv360.vn/manifest/VTV5_HD_50fps/playlist_VTV5-HD-50fps-1080P-65M.m3u8
-#EXTINF:0 tvg-id="vtv5hdtn" group-title="VTV" catchup="append" catchup-days="2",VTV TÂY NGUYÊN
-http://27.67.50.92:18080//308_0.m3u8?AdaptiveType=HLS&SessionID=0373b722-9b5e-4822-8f82-cbffd490fa83&MinBw=0&MaxBw=20000000
+
 #EXTINF:0 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://i.ibb.co/8cghHq1/vtv-cantho-BEARTV.png" catchup="append" catchup-days="2", VTV CẦN THƠ
 http://live-ali2.tv360.vn/manifest/VTV6_HD/playlist_1080p.m3u8
 
 #EXTINF:0 tvg-id="antvhd" group-title="TỔNG HỢP" catchup="append" catchup-days="2",ANTV
 http://live-ali2.tv360.vn/manifest/ANTV_SPR/playlist_480p1p6.m3u8
-#EXTINF:0 tvg-id="vtv4hd" group-title="VTV" tvg-logo="https://i.ibb.co/928wSRc/VTV4-BEARTV.png" catchup="append" catchup-days="2",VTV4
-http://live-ali4.tv360.vn/manifest/VTV1_HD/playlist_1080p.m3u8
+
