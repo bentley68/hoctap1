@@ -1,0 +1,262 @@
+#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/beartv_epg.xml" tvg-shift=0 m3uautoload=1
+
+#EXTINF:-1 group-title="VTV", VTV1
+https://livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8
+
+
+#EXTINF:-1 group-title="VTV",VTV2 HD
+https://vips-livecdn.fptplay.net/hda1/vtv2_vhls.smil/chunklist_b5000000.m3u8
+
+
+#EXTINF:-1 group-title="VTV",VTV3 HD
+https://vips-livecdn.fptplay.net/hda1/vtv3hd_vhls.smil/chunklist_b5000000.m3u8
+
+
+#EXTINF:-1 group-title="VTV",VTV4 HD
+https://vips-livecdn.fptplay.net/hda1/vtv4_vhls.smil/chunklist_b5000000.m3u8
+
+
+#EXTINF:-1 group-title="VTV",VTV5 | 50fps
+https://live-ali2.tv360.vn/manifest/VTV5_HD_50fps/playlist_VTV5-HD-50fps-1080P-65M.m3u8
+
+
+#EXTINF:-1 group-title="VTV",VTV5 HD Tây Nam Bộ
+https://vips-livecdn.fptplay.net/hda3/vtv5tnb_vhls.smil/chunklist_b5000000.m3u8
+
+
+#EXTINF:-1 group-title="VTV",VTV5 HD Tây Nguyên
+https://code.vthanhtivi.pw/getlink/tv360/207/2.m3u8
+
+
+#EXTINF:-1 group-title="VTV",VTV CẦN THƠ HD
+https://vips-livecdn.fptplay.net/hda1/vtvcantho_vhls.smil/chunklist_b5000000.m3u8?cc
+
+#EXTINF:-1 group-title="VTV",VTV7 HD
+https://vips-livecdn.fptplay.net/hda3/vtv7hd_vhls.smil/chunklist_b5000000.m3u8
+
+
+#EXTINF:-1 group-title="VTV",VTV8 HD
+https://vips-livecdn.fptplay.net/hda2/vtv8hd_vhls.smil/chunklist_b5000000.m3u8
+
+
+#EXTINF:-1 group-title="VTV",VTV9 HD
+https://vips-livecdn.fptplay.net/hda2/vtv9_vhls.smil/chunklist_b5000000.m3u8
+
+
+#EXTINF:-1 group-title="VTC",VTC3
+https://vips-livecdn.fptplay.net/hda1/vtc3hd_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 group-title="VTC",VTC13
+https://vips-livecdn.fptplay.net/hda1/vtc13_vhls.smil/chunklist_b5000000.m3u8
+
+
+#EXTINF:-1 group-title="VTC",VTC14
+https://vips-livecdn.fptplay.net/hda1/vtc14_vhls.smil/chunklist_b5000000.m3u8
+
+
+
+#EXTINF:-1 group-title="VTVCab",VTVcab2 - Phim Việt
+https://code.vthanhtivi.pw/getlink/vieon2/ad62967c-f8f2-4bb1-84bc-637282f14799/playlist.m3u8
+
+
+#EXTINF:-1 group-title="VTVCab",VTVcab3 - OnSport
+http://code.vthanhtivi.pw/getlink/onplus/THETHAO_HD/m401_index.m3u8
+
+
+#EXTINF:-1 group-title="VTVCab",VTVcab5 - E Channel
+https://code.vthanhtivi.pw/getlink/vieon2/f5729e7e-bf42-4e7d-988e-6204f94062b4/playlist.m3u8
+
+
+#EXTINF:-1 group-title="VTVCab",VTVcab6 - On Sports +
+http://code.vthanhtivi.pw/getlink/onplus/HAY_TV/m401_index.m3u8
+
+
+#EXTINF:-1 group-title="VTVCab",VTVcab7 - O2 TV
+https://856175157.r.vtvcdn.com/hls/O2_TV_CL/sc-gaFEAA/m20_index.m3u8
+
+
+#EXTINF:-1 group-title="VTVCab",VTVcab16 - ON FOOTBALL
+http://code.vthanhtivi.pw/getlink/onplus/BONGDA_HD/m401_index.m3u8
+
+
+#EXTINF:-1 group-title="VTVCab",VTVcab18 - ON SPORTS NEWS HD
+http://code.vthanhtivi.pw/getlink/onplus/THETHAO_TINTUC_HD/m401_index.m3u8
+
+
+#EXTINF:-1 group-title="VTVCab",VTVCab21 - CARTOON KIDS HD
+https://856175157.r.vtvcdn.com/hls/BIBI_PLUS_clear_CL/sc-gaFEAQ/m20_index.m3u8
+
+
+#EXTINF:-1 group-title="VTVCab",VTVcab23 - ON GOLF HD
+http://code.vthanhtivi.pw/getlink/onplus/THETHAO_GOLF_HD/m401_index.m3u8
+
+
+
+#EXTINF:-1 group-title="THIẾT YẾU",ANTV | Truyền hình Công an Nhân Dân
+https://livecdn.fptplay.net/hda2/anninhtv_vhls.smil/chunklist_b5000000.m3u8
+
+
+#EXTINF:-1 group-title="THIẾT YẾU",QPVN HD | Quốc Phòng Việt Nam
+https://livecdn.fptplay.net/hda1/quocphongvnhd_vhls.smil/chunklist_b5000000.m3u8
+
+
+#EXTINF:-1 group-title="THIẾT YẾU",THQH HD | Truyền hình Quốc Hội
+https://livecdn.fptplay.net/hda1/quochoivn_vhls.smil/chunklist_b5000000.m3u8
+
+
+#EXTINF:-1 group-title="THIẾT YẾU",VNews | Thông Tấn Xã Việt Nam
+http://livecdn.fptplay.net/hda2/ttxvn_vhls.smil/chunklist_b5000000.m3u8
+
+
+
+#EXTINF:-1 group-title="TỔNG HỢP",Animal Planet
+https://ancom.ga/fpt/animal-planet/bitrate_5000.m3u8
+
+
+#EXTINF:-1 group-title="TỔNG HỢP",AFN
+https://vips-livecdn.fptplay.net/hda1/afchd_vhls.smil/chunklist_b5000000.m3u8?cc
+
+
+#EXTINF:-1 group-title="TỔNG HỢP",CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?cc
+
+
+#EXTINF:-1 group-title="TỔNG HỢP",DW
+https://vips-livecdn.fptplay.net/hda2/dwenglish_vhls.smil/chunklist_b5000000.m3u8?cc
+
+
+#EXTINF:-1 group-title="TỔNG HỢP", Woman
+https://code.vthanhtivi.pw/getlink/tv360/163/2.m3u8
+
+
+#EXTINF:-1 group-title="TỔNG HỢP", FashionTV ⁴ᵏ
+https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8?cc
+
+
+#EXTINF:-1 group-title="TỔNG HỢP", France24
+https://vips-livecdn.fptplay.net/sdb/france24_hls.smil/chunklist_b2500000.m3u8?cc
+
+#EXTINF:-1 group-title="TỔNG HỢP", Box Hits
+https://code.vthanhtivi.pw/getlink/mytv/105/hd.m3u8
+
+
+#EXTINF:-1 group-title="TỔNG HỢP", In The Box
+https://code.vthanhtivi.pw/getlink/cliptv/838/chunklist_b5128000.m3u8
+
+
+#EXTINF:-1 group-title="TỔNG HỢP", HBO UHD
+http://31.42.185.216:8000/2SBN93PHH7/3CYNV7F37W/2790
+
+
+#EXTINF:-1 group-title="TỔNG HỢP", HBO 2 HD
+http://31.42.185.216:8000/2SBN93PHH7/3CYNV7F37W/2791
+
+
+#EXTINF:-1 group-title="TỔNG HỢP", HBO FAMILY UHD
+http://31.42.185.216:8000/2SBN93PHH7/3CYNV7F37W/2792
+
+
+#EXTINF:-1 group-title="TỔNG HỢP", HBO PLUS UHD
+http://31.42.185.216:8000/2SBN93PHH7/3CYNV7F37W/2793
+
+
+#EXTINF:-1 group-title="TỔNG HỢP", HBO SIGNATURE UHD
+http://31.42.185.216:8000/2SBN93PHH7/3CYNV7F37W/2794
+
+
+#EXTINF:-1 group-title="TỔNG HỢP", HBO POP UHD
+http://31.42.185.216:8000/2SBN93PHH7/3CYNV7F37W/2795
+
+
+#EXTINF:-1 group-title="TỔNG HỢP", HBO MUNDI
+http://31.42.185.216:8000/2SBN93PHH7/3CYNV7F37W/2796
+
+
+#EXTINF:-1 group-title="TỔNG HỢP", HBO 3 4K
+http://31.42.185.216:8000/2SBN93PHH7/3CYNV7F37W/128198
+
+
+
+#EXTINF:-1 group-title="TỔNG HỢP", CineLife
+https://magselect-stirr.amagi.tv/playlist1080p.m3u8?cc
+
+
+#EXTINF:-1 group-title="TỔNG HỢP", Hollywood
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8?cc
+
+
+#EXTINF:-1 group-title="TỔNG HỢP", Dr. Fit
+https://code.vthanhtivi.pw/getlink/tv360/162/2.m3u8
+
+
+#EXTINF:-1 group-title="TỔNG HỢP", KIX
+https://vips-livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist_b5000000.m3u8?cc
+
+
+#EXTINF:-1 group-title="TỔNG HỢP", Loupe ⁴ᵏ
+http://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8?cc
+
+
+#EXTINF:-1 group-title="TỔNG HỢP", Love Nature ⁴ᵏ
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8?cc
+
+
+#EXTINF:-1 group-title="TỔNG HỢP", Nasa TV
+http://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8?cc
+
+#EXTINF:-1 group-title="TỔNG HỢP", NHK World
+https://vips-livecdn.fptplay.net/hda2/nhkworld_vhls.smil/chunklist_b5000000.m3u8?cc
+
+
+#EXTINF:-1 group-title="TỔNG HỢP", OAN
+https://cdn.klowdtv.net/803B48A/oan_aws_ms/OAN_720p30.m3u8?cc
+
+
+#EXTINF:-1 group-title="TỔNG HỢP", Outdoor Channel
+https://vips-livecdn.fptplay.net/hda1/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8?cc
+
+
+#EXTINF:-1 group-title="TỔNG HỢP", Discovery
+https://ancom.ga/fptplay_sv2/discovery/bitrate_5000.m3u8
+
+
+#EXTINF:-1 group-title="TỔNG HỢP", Discovery Asia
+https://ancom.ga/fptplay_sv2/discovery-asia/bitrate_5000.m3u8
+
+
+#EXTINF:-1 group-title="TỔNG HỢP", DISNEY CHANNEL
+http://tvstarlife.com:25461/live/cesar/cesar123/192.m3u8
+
+
+#EXTINF:-1 group-title="TỔNG HỢP", DISCOVERY WORLD
+http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/276815
+
+
+#EXTINF:-1 group-title="TỔNG HỢP", Nat Geo Wild HD
+http://live.vthanhtivi.pw/ngw
+
+
+#EXTINF:-1 group-title="TỔNG HỢP", National Geographic HD
+https://ancom.ga/fptplay_sv2/national-geographic-hd/bitrate_5000.m3u8
+
+
+#EXTINF:-1 group-title="TỔNG HỢP", Smithsonian Channel
+https://smithsonianaus-samsungau.amagi.tv/playlist1080p.m3u8?cc
+
+
+#EXTINF:-1 group-title="TỔNG HỢP", Wild Life
+https://d1vp12yk4i8ou5.cloudfront.net/playlist720p.m3u8?cc
+
+
+
+
+#EXTINF:-1 group-title="SPORT", Bóng Đá Việt
+http://code.vthanhtivi.pw/getlink/onplus/ONVFFTV/m30_index.m3u8
+
+
+
+#EXTINF:-1 group-title="SPORT", Thể Thao Việt
+http://code.vthanhtivi.pw/getlink/onplus/ONVOLLEYBALL/m30_index.m3u8
+
+
+
