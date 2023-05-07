@@ -55,96 +55,96 @@ https://vips-livecdn.fptplay.net/hda1/vtc14_vhls.smil/chunklist_b5000000.m3u8
 
 
 
-#EXTINF:-1 tvg-id= "vtvcab2hd" group-title="VTVCab",VTVcab2 - Phim Việt
+#EXTINF:-1 tvg-id="vtvcab2hd" group-title="VTVCab",VTVcab2 - Phim Việt
 https://code.vthanhtivi.pw/getlink/vieon2/ad62967c-f8f2-4bb1-84bc-637282f14799/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id= "vtvcab3hd" group-title="VTVCab",VTVcab3 - OnSport
+#EXTINF:-1 tvg-id="vtvcab3hd" group-title="VTVCab",VTVcab3 - OnSport
 http://code.vthanhtivi.pw/getlink/onplus/THETHAO_HD/m401_index.m3u8
 
 
-#EXTINF:-1 tvg-id= "vtvcab5hd" group-title="VTVCab",VTVcab5 - E Channel
+#EXTINF:-1 tvg-id="vtvcab5hd" group-title="VTVCab",VTVcab5 - E Channel
 https://code.vthanhtivi.pw/getlink/vieon2/f5729e7e-bf42-4e7d-988e-6204f94062b4/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id= "vtvcab6hd" group-title="VTVCab",VTVcab6 - On Sports +
+#EXTINF:-1 tvg-id="vtvcab6hd" group-title="VTVCab",VTVcab6 - On Sports +
 http://code.vthanhtivi.pw/getlink/onplus/HAY_TV/m401_index.m3u8
 
 
-#EXTINF:-1 tvg-id= "vtvcab7hd" group-title="VTVCab",VTVcab7 - O2 TV
+#EXTINF:-1 tvg-id="vtvcab7hd" group-title="VTVCab",VTVcab7 - O2 TV
 https://856175157.r.vtvcdn.com/hls/O2_TV_CL/sc-gaFEAA/m20_index.m3u8
 
 
-#EXTINF:-1 tvg-id= "vtvcab16hd" group-title="VTVCab",VTVcab16 - ON FOOTBALL
+#EXTINF:-1 tvg-id="vtvcab16hd" group-title="VTVCab",VTVcab16 - ON FOOTBALL
 http://code.vthanhtivi.pw/getlink/onplus/BONGDA_HD/m401_index.m3u8
 
 
-#EXTINF:-1 tvg-id= "vtvcab18hd" group-title="VTVCab",VTVcab18 - ON SPORTS NEWS HD
+#EXTINF:-1 tvg-id="vtvcab18hd" group-title="VTVCab",VTVcab18 - ON SPORTS NEWS HD
 http://code.vthanhtivi.pw/getlink/onplus/THETHAO_TINTUC_HD/m401_index.m3u8
 
 
-#EXTINF:-1 tvg-id= "vtvcab21hd" group-title="VTVCab",VTVCab21 - CARTOON KIDS HD
+#EXTINF:-1 tvg-id="vtvcab21hd" group-title="VTVCab",VTVCab21 - CARTOON KIDS HD
 https://856175157.r.vtvcdn.com/hls/BIBI_PLUS_clear_CL/sc-gaFEAQ/m20_index.m3u8
 
 
-#EXTINF:-1 tvg-id= "vtvcab23hd" group-title="VTVCab",VTVcab23 - ON GOLF HD
+#EXTINF:-1 tvg-id="vtvcab23hd" group-title="VTVCab",VTVcab23 - ON GOLF HD
 http://code.vthanhtivi.pw/getlink/onplus/THETHAO_GOLF_HD/m401_index.m3u8
 
 
 
-#EXTINF:-1 tvg-id= "antvhd" group-title="THIẾT YẾU",ANTV | Truyền hình Công an Nhân Dân HD
+#EXTINF:-1 tvg-id="antvhd" group-title="THIẾT YẾU",ANTV | Truyền hình Công an Nhân Dân HD
 https://livecdn.fptplay.net/hda2/anninhtv_vhls.smil/chunklist_b5000000.m3u8
 
 
-#EXTINF:-1 tvg-id= "qpvnhd" group-title="THIẾT YẾU",QPVN HD | Quốc Phòng Việt Nam HD
+#EXTINF:-1 tvg-id="qpvnhd" group-title="THIẾT YẾU",QPVN HD | Quốc Phòng Việt Nam HD
 https://livecdn.fptplay.net/hda1/quocphongvnhd_vhls.smil/chunklist_b5000000.m3u8
 
 
-#EXTINF:-1 tvg-id= "quochoi" group-title="THIẾT YẾU",THQH HD | Truyền hình Quốc Hội HD
+#EXTINF:-1 tvg-id="quochoi" group-title="THIẾT YẾU",THQH HD | Truyền hình Quốc Hội HD
 https://livecdn.fptplay.net/hda1/quochoivn_vhls.smil/chunklist_b5000000.m3u8
 
 
-#EXTINF:-1 tvg-id= "ttxvnhd" group-title="THIẾT YẾU",VNews | Thông Tấn Xã Việt Nam HD
+#EXTINF:-1 tvg-id="ttxvnhd" group-title="THIẾT YẾU",VNews | Thông Tấn Xã Việt Nam HD
 http://livecdn.fptplay.net/hda2/ttxvn_vhls.smil/chunklist_b5000000.m3u8
 
 
 
-#EXTINF:-1 tvg-id= "animalhd" group-title="TỔNG HỢP",Animal Planet HD
+#EXTINF:-1 tvg-id="animalhd" group-title="TỔNG HỢP",Animal Planet HD
 https://ancom.ga/fpt/animal-planet/bitrate_5000.m3u8
 
 
-#EXTINF:-1 tvg-id= "afnhd" group-title="TỔNG HỢP",AFN HD
+#EXTINF:-1 tvg-id="afnhd" group-title="TỔNG HỢP",AFN HD
 https://vips-livecdn.fptplay.net/hda1/afchd_vhls.smil/chunklist_b5000000.m3u8?cc
 
 
-#EXTINF:-1 tvg-id= "cnahd" group-title="TỔNG HỢP",CNA
+#EXTINF:-1 tvg-id="cnahd" group-title="TỔNG HỢP",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?cc
 
 
-#EXTINF:-1 tvg-id= "dw" group-title="TỔNG HỢP",DW
+#EXTINF:-1 tvg-id="dw" group-title="TỔNG HỢP",DW
 https://vips-livecdn.fptplay.net/hda2/dwenglish_vhls.smil/chunklist_b5000000.m3u8?cc
 
 
-#EXTINF:-1 tvg-id= "woman" group-title="TỔNG HỢP", Woman
+#EXTINF:-1 tvg-id="woman" group-title="TỔNG HỢP", Woman
 https://code.vthanhtivi.pw/getlink/tv360/163/2.m3u8
 
 
-#EXTINF:-1 tvg-id= "fashionhd"   group-title="TỔNG HỢP", FashionTV ⁴ᵏ
+#EXTINF:-1 tvg-id="fashionhd"   group-title="TỔNG HỢP", FashionTV ⁴ᵏ
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8?cc
 
 
-#EXTINF:-1 tvg-id= "france24eng" group-title="TỔNG HỢP", France24
+#EXTINF:-1 tvg-id="france24eng" group-title="TỔNG HỢP", France24
 https://vips-livecdn.fptplay.net/sdb/france24_hls.smil/chunklist_b2500000.m3u8?cc
 
-#EXTINF:-1 tvg-id= "boxhits" group-title="TỔNG HỢP", Box Hits
+#EXTINF:-1 tvg-id="boxhits" group-title="TỔNG HỢP", Box Hits
 https://code.vthanhtivi.pw/getlink/mytv/105/hd.m3u8
 
 
-#EXTINF:-1 tvg-id= "inthebox" group-title="TỔNG HỢP", In The Box
+#EXTINF:-1 tvg-id="inthebox" group-title="TỔNG HỢP", In The Box
 https://code.vthanhtivi.pw/getlink/cliptv/838/chunklist_b5128000.m3u8
 
 
-#EXTINF:-1 tvg-id= "hbohd" group-title="TỔNG HỢP", HBO UHD
+#EXTINF:-1 tvg-id="hbohd" group-title="TỔNG HỢP", HBO UHD
 http://31.42.185.216:8000/2SBN93PHH7/3CYNV7F37W/2790
 
 
@@ -152,7 +152,7 @@ http://31.42.185.216:8000/2SBN93PHH7/3CYNV7F37W/2790
 http://31.42.185.216:8000/2SBN93PHH7/3CYNV7F37W/2791
 
 
-#EXTINF:-1 tvg-id= “hbofamilyhd-asia”  group-title="TỔNG HỢP", HBO FAMILY UHD
+#EXTINF:-1 tvg-id=“hbofamilyhd-asia”  group-title="TỔNG HỢP", HBO FAMILY UHD
 http://31.42.185.216:8000/2SBN93PHH7/3CYNV7F37W/2792
 
 
@@ -160,7 +160,7 @@ http://31.42.185.216:8000/2SBN93PHH7/3CYNV7F37W/2792
 http://31.42.185.216:8000/2SBN93PHH7/3CYNV7F37W/2793
 
 
-#EXTINF:-1 tvg-id= “hbosignaturehd-asia” group-title="TỔNG HỢP", HBO SIGNATURE UHD
+#EXTINF:-1 tvg-id=“hbosignaturehd-asia” group-title="TỔNG HỢP", HBO SIGNATURE UHD
 http://31.42.185.216:8000/2SBN93PHH7/3CYNV7F37W/2794
 
 
@@ -181,7 +181,7 @@ http://31.42.185.216:8000/2SBN93PHH7/3CYNV7F37W/128198
 https://magselect-stirr.amagi.tv/playlist1080p.m3u8?cc
 
 
-#EXTINF:-1 tvg-id= “hollywoodclassics” group-title="TỔNG HỢP", Hollywood
+#EXTINF:-1 tvg-id=“hollywoodclassics” group-title="TỔNG HỢP", Hollywood
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8?cc
 
 
@@ -189,7 +189,7 @@ http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8?cc
 https://code.vthanhtivi.pw/getlink/tv360/162/2.m3u8
 
 
-#EXTINF:-1 tvg-id= “kix” group-title="TỔNG HỢP", KIX
+#EXTINF:-1 tvg-id=“kix” group-title="TỔNG HỢP", KIX
 https://vips-livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist_b5000000.m3u8?cc
 
 
