@@ -216,7 +216,7 @@ https://cdn.klowdtv.net/803B48A/oan_aws_ms/OAN_720p30.m3u8?cc
 https://vips-livecdn.fptplay.net/hda1/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8?cc
 
 
-#EXTINF:-1 tvg-id=”discovery hd” group-title="TỔNG HỢP", Discovery
+#EXTINF:-1 tvg-id=”discoveryhd” group-title="TỔNG HỢP", Discovery
 https://ancom.ga/fptplay_sv2/discovery/bitrate_5000.m3u8
 
 
