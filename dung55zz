@@ -242,8 +242,7 @@ http://meuplay.shop:80/v7yzzocf/uenoaubj/802
 
 
 #EXTINF:-1 tvg-id=”Discoveryasiahd” group-title="TỔNG HỢP", Discovery Asia
-https://ancom.ga/fptplay_sv2/discovery-asia/bitrate_5000.m3u8
-
+http://m.marstvx.com:80/play/live.php?mac=00:1a:79:75:39:09&stream=157347&extension=ts&play_token=restX274Q7
 
 #EXTINF:-1 tvg-id=”Disneychannel”  group-title="TỔNG HỢP", DISNEY CHANNEL
 http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:bf:85:ba&stream=20937&extension=ts&play_token=8EBYeVKSzl
