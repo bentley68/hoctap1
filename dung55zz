@@ -144,12 +144,14 @@ https://code.vthanhtivi.pw/getlink/mytv/105/hd.m3u8
 https://code.vthanhtivi.pw/getlink/cliptv/838/chunklist_b5128000.m3u8
 
 
-#EXTINF:-1 tvg-id="hbohd" group-title="TỔNG HỢP", HBO UHD
-http://31.42.185.216:8000/2SBN93PHH7/3CYNV7F37W/2790
+#EXTINF:-1 tvg-id="hbohd" group-title="TỔNG HỢP", HBO UHD 
+http://201.222.44.220:4227/play/a024/index.m3u8
+
+
 
 
 #EXTINF:-1 group-title="TỔNG HỢP", HBO 2 HD
-http://31.42.185.216:8000/2SBN93PHH7/3CYNV7F37W/2791
+http://201.222.44.220:4227/play/a021/index.m3u8
 
 
 #EXTINF:-1 tvg-id=“hbofamilyhd-asia”  group-title="TỔNG HỢP", HBO FAMILY UHD
