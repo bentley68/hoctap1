@@ -225,7 +225,7 @@ https://ancom.ga/fptplay_sv2/discovery-asia/bitrate_5000.m3u8
 
 
 #EXTINF:-1 tvg-id=”Disneychannel”  group-title="TỔNG HỢP", DISNEY CHANNEL
-http://tvstarlife.com:25461/live/cesar/cesar123/192.m3u8
+http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:bf:85:ba&stream=20937&extension=ts&play_token=8EBYeVKSzl
 
 
 #EXTINF:-1 tvg-id=”Discoveryworld”  group-title="TỔNG HỢP", DISCOVERY WORLD
