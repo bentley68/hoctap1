@@ -279,13 +279,41 @@ https://smithsonianaus-samsungau.amagi.tv/playlist1080p.m3u8?cc
 #EXTINF:-1 tvg-id=”wildlife”  group-title="TỔNG HỢP", Wild Life
 https://d1vp12yk4i8ou5.cloudfront.net/playlist720p.m3u8?cc
 
-
-
-
 #EXTINF:-1 group-title="SPORT", Bóng Đá Việt
 http://code.vthanhtivi.pw/getlink/onplus/ONVFFTV/m30_index.m3u8
 
-
-
 #EXTINF:-1 group-title="SPORT", Thể Thao Việt
 http://code.vthanhtivi.pw/getlink/onplus/ONVOLLEYBALL/m30_index.m3u8
+
+#EXTINF:-1 group-title="TỔNG HỢP", Dr. Fit
+https://code.vthanhtivi.pw/getlink/tv360/162/2.m3u8
+
+#EXTINF:-1 group-title="TỔNG HỢP", MAN
+https://code.vthanhtivi.pw/getlink/tv360/237/2.m3u8
+
+#EXTINF:-1 group-title="TỔNG HỢP", Box Hits
+https://code.vthanhtivi.pw/getlink/mytv/105/hd.m3u8
+
+#EXTINF:-1 group-title="TỔNG HỢP", Hollywood Classics
+https://code.vthanhtivi.pw/getlink/cliptv/825/chunklist_b5128000.m3u8
+
+#EXTINF:-1 group-title="TỔNG HỢP", In The Box
+https://code.vthanhtivi.pw/getlink/cliptv/838/chunklist_b5128000.m3u8
+
+
+#EXTINF:-1 group-title="TỔNG HỢP", Outdoor Channel HD
+https://livecdn.fptplay.net/hda1/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 group-title="TỔNG HỢP", Da Vinci
+https://vips-livecdn.fptplay.net/hda2/davincihd_vhls.smil/chunklist_b5000000.m3u8?cc
+
+#EXTINF:-1 group-title="TỔNG HỢP", KIX
+https://vips-livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist_b5000000.m3u8
+
+
+#EXTINF:-1 group-title="TỔNG HỢP", AXN
+http://m.marstvx.com:80/play/live.php?mac=00:1a:79:75:39:09&stream=107517&extension=ts&play_token=3qtm9xJ7v8
+
+#EXTINF:-1 group-title="TỔNG HỢP", Box Movie
+https://vtsstr7.tv24.vn/live/smil:BOX_MOVIE_HD.smil/chunklist.m3u8
+
