@@ -157,6 +157,9 @@ http://201.222.44.220:4227/play/a021/index.m3u8
 #EXTINF:-1 tvg-id=“hbofamilyhd-asia”  group-title="TỔNG HỢP", HBO FAMILY UHD
 http://31.42.185.216:8000/2SBN93PHH7/3CYNV7F37W/2792
 
+#EXTINF:-1 tvg-id=“hbofamilyhd”  group-title="TỔNG HỢP", HBO FAMILY FHD
+http://m.marstvx.com:80/play/live.php?mac=00:1a:79:75:39:09&stream=45550&extension=ts&play_token=VPw4daLNq7
+
 
 #EXTINF:-1 group-title="TỔNG HỢP", HBO PLUS UHD
 http://31.42.185.216:8000/2SBN93PHH7/3CYNV7F37W/2793
