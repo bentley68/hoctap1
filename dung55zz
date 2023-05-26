@@ -42,33 +42,6 @@ https://vips-livecdn.fptplay.net/hda1/vtc13_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtc14hd" group-title="VTC" catchup="append" catchup-days="2" catchup-source=https://tshift.fptplay.net/dvr/vtc14_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8 ,VTC14
 https://vips-livecdn.fptplay.net/hda1/vtc14_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 tvg-id="vtvcab2hd" group-title="VTVCab",VTVcab2 - Phim Việt
-https://code.vthanhtivi.pw/getlink/vieon2/ad62967c-f8f2-4bb1-84bc-637282f14799/playlist.m3u8
-
-#EXTINF:-1 tvg-id="vtvcab3hd" group-title="VTVCab",VTVcab3 - OnSport
-http://code.vthanhtivi.pw/getlink/onplus/THETHAO_HD/m401_index.m3u8
-
-#EXTINF:-1 tvg-id="vtvcab5hd" group-title="VTVCab",VTVcab5 - E Channel
-https://code.vthanhtivi.pw/getlink/vieon2/f5729e7e-bf42-4e7d-988e-6204f94062b4/playlist.m3u8
-
-#EXTINF:-1 tvg-id="vtvcab6hd" group-title="VTVCab",VTVcab6 - On Sports +
-http://code.vthanhtivi.pw/getlink/onplus/HAY_TV/m401_index.m3u8
-
-#EXTINF:-1 tvg-id="vtvcab7hd" group-title="VTVCab",VTVcab7 - O2 TV
-https://856175157.r.vtvcdn.com/hls/O2_TV_CL/sc-gaFEAA/m20_index.m3u8
-
-#EXTINF:-1 tvg-id="vtvcab16hd" group-title="VTVCab",VTVcab16 - ON FOOTBALL
-http://code.vthanhtivi.pw/getlink/onplus/BONGDA_HD/m401_index.m3u8
-
-#EXTINF:-1 tvg-id="vtvcab18hd" group-title="VTVCab",VTVcab18 - ON SPORTS NEWS HD
-http://code.vthanhtivi.pw/getlink/onplus/THETHAO_TINTUC_HD/m401_index.m3u8
-
-#EXTINF:-1 tvg-id="vtvcab21hd" group-title="VTVCab",VTVCab21 - CARTOON KIDS HD
-https://856175157.r.vtvcdn.com/hls/BIBI_PLUS_clear_CL/sc-gaFEAQ/m20_index.m3u8
-
-#EXTINF:-1 tvg-id="vtvcab23hd" group-title="VTVCab",VTVcab23 - ON GOLF HD
-http://code.vthanhtivi.pw/getlink/onplus/THETHAO_GOLF_HD/m401_index.m3u8
-
 #EXTINF:-1 tvg-id="antvhd" group-title="THIẾT YẾU",ANTV | Truyền hình Công an Nhân Dân HD
 https://livecdn.fptplay.net/hda2/anninhtv_vhls.smil/chunklist_b5000000.m3u8
 
@@ -197,9 +170,6 @@ https://d1vp12yk4i8ou5.cloudfront.net/playlist720p.m3u8?cc
 #EXTINF:-1 tvg-id="drfithd" group-title="TỔNG HỢP", Dr.Fit
 https://code.vthanhtivi.pw/getlink/tv360/162/2.m3u8
 
-#EXTINF:-1 tvg-id="boxhits" group-title="TỔNG HỢP", Box Hits
-https://code.vthanhtivi.pw/getlink/mytv/105/hd.m3u8
-
 #EXTINF:-1 tvg-id= "hollywoodclassics" group-title="TỔNG HỢP", Hollywood Classics
 https://code.vthanhtivi.pw/getlink/cliptv/825/chunklist_b5128000.m3u8
 
@@ -213,8 +183,6 @@ http://m.marstvx.com:80/play/live.php?mac=00:1a:79:75:39:09&stream=107517&extens
 #EXTINF:-1 tvg-id="boxmovie1" group-title="TỔNG HỢP", Box Movie
 https://vtsstr7.tv24.vn/live/smil:BOX_MOVIE_HD.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-id=" vtvcab22hd" group-title="VTVCab",ON LIFE
-https://code.vthanhtivi.pw/getlink/vieon/vtvcab22-life-tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="btv5hd" group-title="VTVCab",ON SPORTS ACTION
 https://code.vthanhtivi.pw/getlink/tv360/2380/2.m3u8
