@@ -54,9 +54,6 @@ https://livecdn.fptplay.net/hda1/quochoivn_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="ttxvnhd" group-title="THIẾT YẾU",VNews | Thông Tấn Xã Việt Nam HD
 http://livecdn.fptplay.net/hda2/ttxvn_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 tvg-id="animalhd" group-title="TỔNG HỢP",Animal Planet HD
-http://branchezvousiptv.net:80/live/Amani123/Amani123/880437.m3u8
-
 #EXTINF:-1 tvg-id="afnhd" group-title="TỔNG HỢP",AFN HD
 https://vips-livecdn.fptplay.net/hda1/afchd_vhls.smil/chunklist_b5000000.m3u8?cc
 
@@ -106,60 +103,11 @@ http://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8?cc
 #EXTINF:-1 tvg-id="lovenature” group-title="TỔNG HỢP", Love Nature ⁴ᵏ
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8?cc
 
-#EXTINF:-1 tvg-id="    " group-title="TỔNG HỢP", Nasa TV
-http://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8?cc
-
 #EXTINF:-1 tvg-id="nhkword” group-title="TỔNG HỢP", NHK World
 https://vips-livecdn.fptplay.net/hda2/nhkworld_vhls.smil/chunklist_b5000000.m3u8?cc
 
 #EXTINF:-1 tvg-id="    " group-title="TỔNG HỢP", OAN
 https://cdn.klowdtv.net/803B48A/oan_aws_ms/OAN_720p30.m3u8?cc
-
-#EXTINF:-1 tvg-id=”discoveryhd” group-title="TỔNG HỢP", Discovery
-http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:5c:90:68&stream=121633&extension=ts&play_token=W4pwf2Vp44
-
-#EXTINF:-1 tvg-id=”discoverysciencehd” group-title="TỔNG HỢP", Discovery Science FHD
-http://meuplay.shop:80/v7yzzocf/uenoaubj/820
-
-#EXTINF:-1 tvg-id=”discoverytheaterhd” group-title="TỔNG HỢP", Discovery Theater FHD
-http://meuplay.shop:80/v7yzzocf/uenoaubj/821
-
-#EXTINF:-1 tvg-id=”discoverytlc” group-title="TỔNG HỢP", Discovery TLC FHD
-http://meuplay.shop:80/v7yzzocf/uenoaubj/809
-
-#EXTINF:-1 tvg-id=”discoveryturbo” group-title="TỔNG HỢP", Discovery TURBO FHD
-http://meuplay.shop:80/v7yzzocf/uenoaubj/818
-
-#EXTINF:-1 tvg-id=”discoveryworld” group-title="TỔNG HỢP", Discovery WORLD FHD
-http://meuplay.shop:80/v7yzzocf/uenoaubj/802
-
-#EXTINF:-1 tvg-id=”discoveryasiahd” group-title="TỔNG HỢP", Discovery Asia
-http://m.marstvx.com:80/play/live.php?mac=00:1a:79:75:39:09&stream=157347&extension=ts&play_token=restX274Q7
-
-#EXTINF:-1 tvg-id=”Disneychannel”  group-title="TỔNG HỢP", DISNEY CHANNEL
-http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:bf:85:ba&stream=20937&extension=ts&play_token=8EBYeVKSzl
-
-#EXTINF:-1 tvg-id=”discoveryhd” group-title="TỔNG HỢP", DISNEY CHANNEL FHD
-http://meuplay.shop:80/v7yzzocf/uenoaubj/808
-
-#EXTINF:-1 tvg-id=”discoveryhome” group-title="TỔNG HỢP", DISNEY HOME & HEALTH FHD
-http://meuplay.shop:80/v7yzzocf/uenoaubj/807
-
-#EXTINF:-1 tvg-id=”Discoveryworld”  group-title="TỔNG HỢP", DISCOVERY WORLD
-http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/276815
-
-#EXTINF:-1 tvg-id=”ngwhd”  group-title="TỔNG HỢP", Nat Geo Wild HD
-http://client.phoenix-iptv.com:80/play/live.php?mac=00:1a:79:75:39:09&stream=506528&extension=ts&play_token=gGjioLFhOd
-
-#EXTINF:-1 tvg-id=”ngchd”  group-title="TỔNG HỢP", National Geographic US FHD
-http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:bf:85:ba&stream=11375&extension=ts&play_token=dQdxWciay6
-
-#EXTINF:-1 tvg-id=”ngchd”  group-title="TỔNG HỢP", National Geographic UK FHD
-http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:bf:85:ba&stream=11375&extension=ts&play_token=A0wMl77UWL
-
-#EXTINF:-1 tvg-id=”davinci”  group-title="TỔNG HỢP", DA VINCI FHD
-https://livecdn.fptplay.net/hda2/davincihd_vhls.smil/chunklist_b5000000.m3u8
-https://vips-livecdn.fptplay.net/hda2/davincihd_vhls.smil/chunklist_b5000000.m3u8?cc
 
 #EXTINF:-1 tvg-id="    " group-title="TỔNG HỢP", Smithsonian Channel
 https://smithsonianaus-samsungau.amagi.tv/playlist1080p.m3u8?cc
@@ -183,6 +131,57 @@ http://m.marstvx.com:80/play/live.php?mac=00:1a:79:75:39:09&stream=107517&extens
 #EXTINF:-1 tvg-id="boxmovie1" group-title="TỔNG HỢP", Box Movie
 https://vtsstr7.tv24.vn/live/smil:BOX_MOVIE_HD.smil/chunklist.m3u8
 
+#EXTINF:-1 tvg-id=”discoveryasiahd” group-title="KHOA HỌC", Discovery Asia
+http://m.marstvx.com:80/play/live.php?mac=00:1a:79:75:39:09&stream=157347&extension=ts&play_token=restX274Q7
+
+#EXTINF:-1 tvg-id=”Disneychannel”  group-title="KHOA HỌC", DISNEY CHANNEL
+http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:bf:85:ba&stream=20937&extension=ts&play_token=8EBYeVKSzl
+
+#EXTINF:-1 tvg-id=”discoveryhd” group-title="KHOA HỌC", DISNEY CHANNEL FHD
+http://meuplay.shop:80/v7yzzocf/uenoaubj/808
+
+#EXTINF:-1 tvg-id=”ngchd”  group-title="KHOA HỌC", National Geographic US FHD
+http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:bf:85:ba&stream=11375&extension=ts&play_token=dQdxWciay6
+
+#EXTINF:-1 tvg-id=”ngchd”  group-title="KHOA HỌC", National Geographic UK FHD
+http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:bf:85:ba&stream=11375&extension=ts&play_token=A0wMl77UWL
+
+#EXTINF:-1 tvg-id=”davinci”  group-title="KHOA HỌC", DA VINCI FHD
+https://livecdn.fptplay.net/hda2/davincihd_vhls.smil/chunklist_b5000000.m3u8
+https://vips-livecdn.fptplay.net/hda2/davincihd_vhls.smil/chunklist_b5000000.m3u8?cc
+
+#EXTINF:-1 tvg-id="    " group-title="KHOA HỌC", Nasa TV
+http://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8?cc
+
+#EXTINF:-1 tvg-id="animalhd" group-title="KHOA HỌC",Animal Planet HD
+http://branchezvousiptv.net:80/live/Amani123/Amani123/880437.m3u8
+
+#EXTINF:-1 tvg-id=”discoveryhd” group-title="KHOA HỌC", Discovery
+http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:5c:90:68&stream=121633&extension=ts&play_token=W4pwf2Vp44
+
+#EXTINF:-1 tvg-id=”discoverysciencehd” group-title="KHOA HỌC", Discovery Science FHD
+http://meuplay.shop:80/v7yzzocf/uenoaubj/820
+
+#EXTINF:-1 tvg-id=”discoverytheaterhd” group-title="KHOA HỌC", Discovery Theater FHD
+http://meuplay.shop:80/v7yzzocf/uenoaubj/821
+
+#EXTINF:-1 tvg-id=”discoverytlc” group-title="KHOA HỌC", Discovery TLC FHD
+http://meuplay.shop:80/v7yzzocf/uenoaubj/809
+
+#EXTINF:-1 tvg-id=”discoveryturbo” group-title="KHOA HỌC", Discovery TURBO FHD
+http://meuplay.shop:80/v7yzzocf/uenoaubj/818
+
+#EXTINF:-1 tvg-id=”discoveryworld” group-title="KHOA HỌC", Discovery WORLD FHD
+http://meuplay.shop:80/v7yzzocf/uenoaubj/802
+
+#EXTINF:-1 tvg-id=”discoveryhome” group-title="KHOA HỌC", DISNEY HOME & HEALTH FHD
+http://meuplay.shop:80/v7yzzocf/uenoaubj/807
+
+#EXTINF:-1 tvg-id=”Discoveryworld”  group-title="KHOA HỌC", DISCOVERY WORLD
+http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/276815
+
+#EXTINF:-1 tvg-id=”ngwhd”  group-title="KHOA HỌC", Nat Geo Wild HD
+http://client.phoenix-iptv.com:80/play/live.php?mac=00:1a:79:75:39:09&stream=506528&extension=ts&play_token=gGjioLFhOd
 
 #EXTINF:-1 tvg-id="btv5hd" group-title="VTVCab",ON SPORTS ACTION
 https://code.vthanhtivi.pw/getlink/tv360/2380/2.m3u8
