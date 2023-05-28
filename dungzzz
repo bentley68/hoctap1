@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/beartv_epg.xml" tvg-shift=0 m3uautoload=1
 
+#---VTV---#
 #EXTINF:-1 tvg-id="vtv1hd" group-title="🪩| VTV" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8" ,VTV1 HD
 https://livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8
 
@@ -33,6 +34,8 @@ https://vips-livecdn.fptplay.net/hda2/vtv8hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtv9hd" group-title="🪩| VTV" catchup="append" catchup-days="2" catchup-source=https://tshift.fptplay.net/dvr/vtv9_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8 ,VTV9 HD
 https://vips-livecdn.fptplay.net/hda2/vtv9_vhls.smil/chunklist_b5000000.m3u8
 
+#---VTC---#
+
 #EXTINF:-1 tvg-id="vtc3hd" group-title="🪩| VTC" catchup="append" catchup-days="2" catchup-source=https://tshift.fptplay.net/dvr/vtc3_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8 ,VTC3 HD
 https://vips-livecdn.fptplay.net/hda1/vtc3hd_vhls.smil/chunklist_b5000000.m3u8
 
@@ -41,6 +44,8 @@ https://vips-livecdn.fptplay.net/hda1/vtc13_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-id="vtc14hd" group-title="🪩| VTC" catchup="append" catchup-days="2" catchup-source=https://tshift.fptplay.net/dvr/vtc14_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8 ,VTC14
 https://vips-livecdn.fptplay.net/hda1/vtc14_vhls.smil/chunklist_b5000000.m3u8
+
+#---THIẾT YẾU---#
 
 #EXTINF:-1 tvg-id="antvhd" group-title="🪩| THIẾT YẾU",ANTV | Truyền hình Công an Nhân Dân HD
 https://livecdn.fptplay.net/hda2/anninhtv_vhls.smil/chunklist_b5000000.m3u8
@@ -75,6 +80,7 @@ https://livecdn.fptplay.net/hda1/quocphongvnhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vovtvhd" group-title="🪩| THIẾT YẾU", tvg-logo="https://cdn.hqth.me/logo/thumbs/95.png", VOVTV HD
 http://103.90.220.236/vovlive/tv1live.m3u8
 
+#---TỔNG HỢP---#
 #EXTINF:-1 tvg-id="afnhd" group-title="🪩| TỔNG HỢP",AFN HD
 https://vips-livecdn.fptplay.net/hda1/afchd_vhls.smil/chunklist_b5000000.m3u8?cc
 
@@ -105,11 +111,6 @@ http://201.222.44.220:4227/play/a024/index.m3u8
 #EXTINF:-1 tvg-id="    " group-title="🪩| TỔNG HỢP", HBO2 HD
 http://201.222.44.220:4227/play/a021/index.m3u8
 
-#EXTINF:-1 tvg-id=“hbofamilyhd”  group-title="🪩| TỔNG HỢP", HBO FAMILY FHD
-http://m.marstvx.com:80/play/live.php?mac=00:1a:79:75:39:09&stream=45550&extension=ts&play_token=VPw4daLNq7
-
-#EXTINF:-1 tvg-id="    " group-title="🪩| TỔNG HỢP", HBO3 HD
-http://client.phoenix-iptv.com:80/play/live.php?mac=00:1a:79:75:39:09&stream=98197&extension=ts&play_token=V4VJ1zneHf
 
 #EXTINF:-1 tvg-id=“hollywoodclassics” group-title="🪩| TỔNG HỢP", Hollywood
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8?cc
@@ -146,26 +147,27 @@ https://code.vthanhtivi.pw/getlink/cliptv/825/chunklist_b5128000.m3u8
 https://vips-livecdn.fptplay.net/hda1/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8?cc
 https://livecdn.fptplay.net/hda1/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 tvg-id="axnhd" group-title="🪩| TỔNG HỢP", AXN
-http://m.marstvx.com:80/play/live.php?mac=00:1a:79:75:39:09&stream=107517&extension=ts&play_token=3qtm9xJ7v8
 
 #EXTINF:-1 tvg-id="boxmovie1" group-title="🪩| TỔNG HỢP", Box Movie
 https://vtsstr7.tv24.vn/live/smil:BOX_MOVIE_HD.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-id=”discoveryasiahd” group-title="🪩| KHOA HỌC", Discovery Asia
-http://m.marstvx.com:80/play/live.php?mac=00:1a:79:75:39:09&stream=157347&extension=ts&play_token=restX274Q7
 
-#EXTINF:-1 tvg-id=”Disneychannel”  group-title="🪩| KHOA HỌC", DISNEY CHANNEL
-http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:bf:85:ba&stream=20937&extension=ts&play_token=8EBYeVKSzl
+#---KHOA HỌC---#
 
 #EXTINF:-1 tvg-id=”discoveryhd” group-title="🪩| KHOA HỌC", DISNEY CHANNEL FHD
 http://meuplay.shop:80/v7yzzocf/uenoaubj/808
 
+
+
 #EXTINF:-1 tvg-id=”ngchd”  group-title="🪩| KHOA HỌC", National Geographic US FHD
-http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:bf:85:ba&stream=11375&extension=ts&play_token=dQdxWciay6
 
 #EXTINF:-1 tvg-id=”ngchd”  group-title="🪩| KHOA HỌC", National Geographic UK FHD
-http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:bf:85:ba&stream=11375&extension=ts&play_token=A0wMl77UWL
+
+#EXTINF:-1 tvg-id=”discoveryhd” group-title="🪩| KHOA HỌC", Discovery
+
+#EXTINF:-1 tvg-id=”ngwhd”  group-title="🪩| KHOA HỌC", Nat Geo Wild HD
+
+
 
 #EXTINF:-1 tvg-id=”davinci”  group-title="🪩| KHOA HỌC", DA VINCI FHD
 https://livecdn.fptplay.net/hda2/davincihd_vhls.smil/chunklist_b5000000.m3u8
@@ -176,9 +178,6 @@ http://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8?cc
 
 #EXTINF:-1 tvg-id="animalhd" group-title="🪩| KHOA HỌC",Animal Planet HD
 http://branchezvousiptv.net:80/live/Amani123/Amani123/880437.m3u8
-
-#EXTINF:-1 tvg-id=”discoveryhd” group-title="🪩| KHOA HỌC", Discovery
-http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:5c:90:68&stream=121633&extension=ts&play_token=W4pwf2Vp44
 
 #EXTINF:-1 tvg-id=”discoverysciencehd” group-title="🪩| KHOA HỌC", Discovery Science FHD
 http://meuplay.shop:80/v7yzzocf/uenoaubj/820
@@ -201,8 +200,8 @@ http://meuplay.shop:80/v7yzzocf/uenoaubj/807
 #EXTINF:-1 tvg-id=”Discoveryworld”  group-title="🪩| KHOA HỌC", DISCOVERY WORLD
 http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/276815
 
-#EXTINF:-1 tvg-id=”ngwhd”  group-title="🪩| KHOA HỌC", Nat Geo Wild HD
-http://client.phoenix-iptv.com:80/play/live.php?mac=00:1a:79:75:39:09&stream=506528&extension=ts&play_token=gGjioLFhOd
+
+#---VTVCab---#
 
 #EXTINF:-1 tvg-id="btv5hd" group-title="🪩| VTVCab",ON SPORTS ACTION
 https://code.vthanhtivi.pw/getlink/tv360/2380/2.m3u8
